@@ -1,4 +1,4 @@
-import Image from "next/image";
+import Image from"@C:\Users\jnaa\Desktop\HTML&CSS";
 
 export default function Home() {
   return (
@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
-          src="/next.svg"
+          src="/C:\Users\jnaa\Desktop\HTML&CSS"
           alt="Next.js logo"
           width={180}
           height={38}
